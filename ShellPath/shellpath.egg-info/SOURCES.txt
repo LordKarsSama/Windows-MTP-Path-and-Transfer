@@ -1,0 +1,8 @@
+pyproject.toml
+shellpath/__init__.py
+shellpath.egg-info/PKG-INFO
+shellpath.egg-info/SOURCES.txt
+shellpath.egg-info/dependency_links.txt
+shellpath.egg-info/entry_points.txt
+shellpath.egg-info/requires.txt
+shellpath.egg-info/top_level.txt

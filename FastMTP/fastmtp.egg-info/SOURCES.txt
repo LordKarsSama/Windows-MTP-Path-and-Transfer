@@ -1,0 +1,7 @@
+fast_mtp.py
+pyproject.toml
+fastmtp.egg-info/PKG-INFO
+fastmtp.egg-info/SOURCES.txt
+fastmtp.egg-info/dependency_links.txt
+fastmtp.egg-info/entry_points.txt
+fastmtp.egg-info/top_level.txt

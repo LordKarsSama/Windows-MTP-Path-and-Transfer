@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: fastmtp
+Version: 0.1.0
+Summary: Fast direct Windows MTP/WPD file transfer.
+Requires-Python: >=3.10

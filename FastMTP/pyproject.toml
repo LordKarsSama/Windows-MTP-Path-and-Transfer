@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastmtp"
+version = "0.1.0"
+description = "Fast direct Windows MTP/WPD file transfer."
+requires-python = ">=3.10"
+
+[project.scripts]
+fastmtp = "fast_mtp:main"
+
+[tool.setuptools]
+py-modules = ["fast_mtp"]

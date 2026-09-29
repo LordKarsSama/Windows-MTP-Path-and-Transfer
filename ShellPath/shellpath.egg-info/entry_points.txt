@@ -1,0 +1,2 @@
+[console_scripts]
+phn_shellpath = shellpath:main
